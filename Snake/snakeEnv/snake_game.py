@@ -57,6 +57,8 @@ def updateDisplay():
 
     bodyList.append((head_x,head_y))
 
+    
+
 
     if(head_x == food_x and head_y == food_y):
         bodyList.append((head_x,head_y))
